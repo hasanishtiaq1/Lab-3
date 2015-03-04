@@ -1,1 +1,2 @@
 # Lab-3
+This Lab is about sending file across different platform using client server architecture. The client and server files are written in c and java. The java code run on port 55555 and of C on 5000. To run the code specify the port where you want to send the file. The first test case check if the file from java client is sent to client java server. The second test case check if the file from C client is sent to client C server. The third test case check if the file from C client is sent to client java server.
